@@ -1,2 +1,7 @@
-# dw_matrix
-Matrix - projekt Data Workshop
+# Projekt transformacja - poznaj reguły gry
+
+Tutaj pojawią się 5 dni z projektu transformacji - część pierwsza
+ - a
+ - b
+ - c
+ 
